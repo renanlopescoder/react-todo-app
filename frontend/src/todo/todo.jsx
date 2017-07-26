@@ -5,7 +5,7 @@ import PageHeader from '../template/pageHeader'
 import TodoForm from './todoForm'
 import TodoList from './todoList'
 
-const url = `http://localhost:3000/api/todos`
+const url = `https://react-todo-app-server/api/todos`
 
 class Todo extends Component {
   

@@ -1,13 +1,12 @@
 {
-  "name": "backend",
+  "name": "react-todo-app-server",
   "version": "1.0.0",
-  "description": "",
-  "main": "src/loader.js",
+  "description": "Heroku Server Starter",
   "scripts": {
-    "dev": "nodemon"
+    "start": "node ./backend/src/loader.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Renan Lopes",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.2",
