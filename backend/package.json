@@ -2,9 +2,9 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "src/loader.js",
   "scripts": {
-    "dev": "nodemon"
+    "dev": "nodemon",
+    "start": "node ./src/loader.js"
   },
   "keywords": [],
   "author": "",
