@@ -2,6 +2,8 @@
 
 # React Todo App
 
+DEMO: http://renanlopes.com/projects/react-redux-todo-app/#/todos
+
 #### Description
 
 This is a simple "Todo List" project using Back End with NodeJS Express MongoDB and Front End with WebPack, babel and React to share with the developers community the usage of these technologies.
