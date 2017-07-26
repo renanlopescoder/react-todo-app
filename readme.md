@@ -2,7 +2,7 @@
 
 # React Todo App
 
-DEMO: http://renanlopes.com/projects/react-redux-todo-app/#/todos
+DEMO: http://renanlopes.com/projects/react-todo-app/#/todos
 
 #### Description
 
